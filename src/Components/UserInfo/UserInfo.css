@@ -8,6 +8,7 @@ li {
 
 ul {
   width: max-content;
-  border: 3px pink dashed;
+  border: 3px rgb(190, 82, 204) solid;
   padding: 15px;
+  background-color: lightgrey;
 }
